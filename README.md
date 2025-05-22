@@ -14,7 +14,7 @@ Nesta etapa do projeto, implementei:
 - Tela de Login com botão de simulação de autenticação
 - Tela Home com conteúdo principal do app
 - Navegação condicional entre telas usando **React Navigation**
-- Controle de estado para exibir as telas corretamente (Splash → Login → Home)
+- Controle de estado para exibir as telas corretamente (Splash  → Home)
 
 ## 🔧 Tecnologias Utilizadas
 
