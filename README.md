@@ -1,11 +1,29 @@
-# Sample Snack app
+# 📱 Clone do Prime Video - React Native + Expo
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+![image](https://github.com/user-attachments/assets/f2236b06-538a-4989-bcf8-66db6dc0108b)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+Este projeto faz parte do curso **React Native + Expo** e tem como objetivo criar um aplicativo semelhante ao Prime Video, utilizando tecnologias modernas do ecossistema React Native.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 🚀 Aula 04 - Estrutura de Telas e Navegação
+
+Nesta etapa do projeto, implementei:
+
+- Tela de Splash (tela de carregamento inicial)
+- Tela de Login com botão de simulação de autenticação
+- Tela Home com conteúdo principal do app
+- Navegação condicional entre telas usando **React Navigation**
+- Controle de estado para exibir as telas corretamente (Splash → Login → Home)
+
+## 🔧 Tecnologias Utilizadas
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [React Navigation](https://reactnavigation.org/)
+- JavaScript (ES6+)
+
+---
+
+📂 Acompanhe meu progresso e outros projetos no meu GitHub:  
+👉 [https://github.com/CezinhaDev](https://github.com/CezinhaDev)
